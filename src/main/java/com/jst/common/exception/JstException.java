@@ -1,6 +1,6 @@
-package com.jst.config.exception;
+package com.jst.common.exception;
 
-import com.jst.config.enums.ExceptionEnums;
+import com.jst.common.enums.ExceptionEnums;
 import lombok.Getter;
 
 /**

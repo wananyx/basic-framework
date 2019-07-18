@@ -1,6 +1,6 @@
 package com.jst.common.vo;
 
-import com.jst.config.enums.ExceptionEnums;
+import com.jst.common.enums.ExceptionEnums;
 
 /**
  * 异常结果封装类

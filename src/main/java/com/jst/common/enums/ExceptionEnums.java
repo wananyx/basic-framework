@@ -1,4 +1,4 @@
-package com.jst.config.enums;
+package com.jst.common.enums;
 
 /**
  * 异常信息枚举

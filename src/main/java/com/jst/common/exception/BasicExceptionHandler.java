@@ -1,4 +1,4 @@
-package com.jst.config.exception;
+package com.jst.common.exception;
 
 import com.jst.common.vo.ExceptionResult;
 import org.springframework.http.ResponseEntity;
